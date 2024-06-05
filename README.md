@@ -14,6 +14,7 @@ TechElite es una empresa dedicada a ofrecer soluciones innovadoras y personaliza
 - Consultoría tecnológica y más
 
   ![TechElite](assets/images/tech.png)
+  C:\Users\SOPORTES JPVM\Pictures\Saved Pictures\tech.png
 
  ## Con TechElite, tendrás un aliado tecnológico comprometido con la calidad y la innovación. ¡Contacta con nosotros hoy y descubre cómo podemos ayudarte a impulsar tu negocio con las mejores soluciones tecnológicas!
 
