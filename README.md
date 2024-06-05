@@ -1,6 +1,6 @@
 # TechElite
 
-##¡Bienvenidos a TechElite!
+## ¡Bienvenidos a TechElite!
  
 
 TechElite es una empresa dedicada a ofrecer soluciones innovadoras y personalizadas en el mundo del desarrollo de software. Transformamos tus ideas en realidades digitales, creando aplicaciones a medida, optimizando sistemas y llevando tu negocio al siguiente nivel con tecnología de punta.
@@ -20,4 +20,4 @@ TechElite es una empresa dedicada a ofrecer soluciones innovadoras y personaliza
 Para más información, contacta con nosotros:
 
 - 📱 +57 300 8153592
-##¡Transforma tu futuro digital con TechElite!    
+## ¡Transforma tu futuro digital con TechElite!    
