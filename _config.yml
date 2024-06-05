@@ -3,3 +3,13 @@ description: "Soluciones innovadoras y personalizadas en el mundo del desarrollo
 baseurl: ""
 url: "https://TechElite.github.io/Sofhispan"  # Cambia "tu-usuario" por tu nombre de usuario
 theme: minima
+
+
+# Custom CSS
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+include:
+  - assets/css/style.css
