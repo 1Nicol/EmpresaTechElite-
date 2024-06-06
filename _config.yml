@@ -1,15 +1,1 @@
-title: TechElite
-description: "Soluciones innovadoras y personalizadas en el mundo del desarrollo de software"
-baseurl: ""
-url: "https://1nicol.github.io/EmpresaTechElite-/"
-theme: minima
 
-
-# Custom CSS
-markdown: kramdown
-sass:
-  sass_dir: _sass
-  style: compressed
-
-include:
-  - assets/css/style.css
